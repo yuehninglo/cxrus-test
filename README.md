@@ -2,10 +2,10 @@
 
 ### Steps
 1. Make sure you have Java 25 and PostgreSQL on your test machine.
-2. Clone the project and build.
+2. Clone the project.
 3. Create a database called "cxrus" in PostgreSQL and use table.sql file to create tables and dummy data.
-4. Put username and password into application.properties file
-5. Run the Spring Boot project and go to localhost:8081
+4. Put username and password into application.properties file and run Maven build.
+5. Start the project and visit localhost:8081
 
 ### 1. SQL statements
 
